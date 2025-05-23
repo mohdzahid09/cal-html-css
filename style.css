@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+input{
+    height: 95px;
+    width: 95px;
+    
+    margin: 5px;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+}
+.screen{
+    width: 430px;
+    border-radius: 5px;
+    background-color: lightslategray;
+    /* box-shadow: 2px 2px 3px black; */
+    /* border: 2px solid black; */
+}
+.btn{
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 900px;
+    background-color: rgb(241, 121, 16);
+    border-radius: 50%;
+    /* box-shadow: 2px 2px 3px black; */
+    border: none;
+    color: aliceblue;
+}
+
+.back-grd{
+    
+    background-color: black;
+    height: 700px;
+    width: 500px;
+    align-content: center;
+    margin: 0 auto;
+     border-radius: 20px;
+}
+.conatiner{
+    display: flex;
+    flex-direction: row;
+   
+}
+#equal{
+    width: 95px;
+    position: relative;
+    left: 1px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.buttons{
+    position: relative;
+    top: 10px;
+    
+
+}
+.btns{
+    background-color: rgb(56, 56, 56);
+    color: white;
+    border-radius: 50%;
+    text-decoration: none;
+    border: none;
+}
+.btu{
+    border-radius: 50%;
+    background-color: rgb(191, 191, 191);
+}
+.bts{
+    border-radius: 50%;
+    position: relative;
+    top: 4px;
+    background-color: rgb(191, 191, 191)
+}
